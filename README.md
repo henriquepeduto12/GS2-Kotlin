@@ -1,3 +1,6 @@
+Henrique Peduto RM:93658
+Pedro ROssini RM:94420
+
 Este projeto foi desenvolvido para a atividade GS2 em Kotlin, utilizando Android Studio e Jetpack Compose. O objetivo foi criar um aplicativo simples com navegação entre telas, contendo login, menu principal, cálculo de IMC e uma tela com os integrantes da equipe. A proposta segue exatamente o que foi solicitado no enunciado da prova, garantindo que todas as funcionalidades essenciais estivessem funcionando e organizadas de forma clara.
 
 O aplicativo inicia na tela de Login, onde o usuário deve informar nome de usuário e senha para acessar o sistema. Foram usados valores fixos para validação, apenas com a intenção de demonstrar o funcionamento da navegação e do controle de acesso.
